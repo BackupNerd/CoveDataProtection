@@ -1,5 +1,3 @@
-TO DOWNLOAD ALL FILES click the green ( CODE button ) to download the entire Repository as a single .ZIP file.
-
 TO DOWNLOAD INDIVIDUAL FILES Click the file name, then Right Click on the Raw Button and select Save link as...)
 
 Sample scripts are not supported under any N-able support program or service.
