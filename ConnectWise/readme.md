@@ -1,4 +1,3 @@
-# READ ME
 ## TO DOWNLOAD INDIVIDUAL FILES Click the file name, then Right Click on the Raw Button and then select Save link as...)
 
 Sample scripts are not supported under any N-able support program or service.
