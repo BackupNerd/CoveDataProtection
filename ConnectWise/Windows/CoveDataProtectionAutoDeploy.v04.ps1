@@ -15,7 +15,7 @@
     # out of the use of or inability to use the sample scripts.
 # -----------------------------------------------------------#>
 <# ----- Compatibility: ----
-    # For use with the Standalone edition of N-able Cove Data Protection
+    # For use with the Standalone edition of N-able | Cove Data Protection
 # -----------------------------------------------------------#>
 
 <# ----- Behavior: ----
