@@ -20,7 +20,7 @@
 
 <# ----- Behavior: ----
     # Downloads and deploys a new Backup Manager as a Passphrase compatible device with an assigned Profile
-    # Replace UID and PROFILEID variables at the begining of the script
+    # Replace CUID and PROFILEID variables at the begining of the script
     # Optionally replace 'All-in' as the default Product specified for Windows deployments
     # Run this Script from the TakeControl Shell or PowerShell 
     #
@@ -37,7 +37,7 @@
     # Name: PRODUCT
     # Type: Integer String 
     # Value: Product Name
-    # Note: Found @ Backup.Management | Product ('All-In'is the case-sensitive default product with 28 days retention)
+    # Note: Found @ Backup.Management | Product ('All-In' is the case-sensitive default product with 28 days retention)
     #
     # https://documentation.n-able.com/backup/userguide/documentation/Content/backup-manager/backup-manager-installation/regular-install.htm
     # https://documentation.n-able.com/backup/userguide/documentation/Content/backup-manager/backup-manager-installation/silent.htm
